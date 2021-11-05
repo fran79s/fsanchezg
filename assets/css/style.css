@@ -12604,6 +12604,12 @@ a.bd-backtotop-1:hover {
   background-color: rgba(0, 0, 0, 0);
   background-image: none;
 }
+.bd-animation-1.animated.bounce {
+  -webkit-animation-duration: 1000ms;
+  animation-duration: 1000ms;
+  -webkit-animation-delay: 0ms;
+  animation-delay: 0ms;
+}
 .bd-icon-46:before {
   content: url(../../assets/images/54c46f98d0567cf1660b2ae353848ea7_LOGOIMPRESIONESSGPequeo.png);
   font-size: 0 !important;
@@ -12643,6 +12649,12 @@ a.bd-backtotop-1:hover {
 .bd-button-25:active {
   background-color: rgba(0, 0, 0, 0);
   background-image: none;
+}
+.bd-animation-3.animated.bounce {
+  -webkit-animation-duration: 1000ms;
+  animation-duration: 1000ms;
+  -webkit-animation-delay: 0ms;
+  animation-delay: 0ms;
 }
 .bd-icon-47:before {
   content: url(../../assets/images/90942a73e87cde0b1e10802820cad9c9_diseowebfsanchezg.png);
