@@ -367,10 +367,9 @@ div:not(.bd-sheetstyles).bd-page-width .bd-contentlayout-offset section:not(.bd-
 #marker-start-L3N0eWxlLmNzcw.L3RlbXBsYXRlcy9wYWdlVGVtcGxhdGU {}
 .bd-body-7 {
   position: relative;
-  background-color: #555555;
-  background-image: url(../../assets/images/fdcafc36fc0a569b1415980de19f381b_BackArcoiris.png);
-  background-repeat: repeat;
   background-attachment: scroll;
+  background-image: url(../../assets/images/1a4bb0752d88a312a020837b8d22007b_bannerfsanchezg2022.png);
+  background-repeat: repeat;
   background-position: center center;
 }
 #marker-end-L3N0eWxlLmNzcw.L3RlbXBsYXRlcy9wYWdlVGVtcGxhdGU {}
@@ -13569,27 +13568,13 @@ h2.bd-postheader-4 a {
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXNlY3Rpb24yMg {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXNlY3Rpb24yMw {}
 .bd-section-23 {
-  background-color: rgba(0, 0, 0, 0);
   padding-top: 2em;
   padding-bottom: 2em;
-  background-image: url(../../assets/images/9516cf23000bb337c02cae28d3279475_bannerfsanchezg2022.png);
-  background-repeat: repeat;
   background-attachment: scroll;
-  background-position: center center;
 }
 @media (max-width: 991px) {
   .bd-section-23 {
-    background-color: rgba(255, 255, 255, 0.5);
-    background-image: url(../../assets/images/28551d3beee2c31a62a58052abf79163_bannerfsanchezg2022.png);
-    background-position: right center;
     background-size: cover;
-  }
-}
-@media (max-width: 767px) {
-  .bd-section-23 {
-    background-color: #ffffff;
-    background-image: url(../../assets/images/9702814f6ca61650b9c34e682c794420_celular.png);
-    background-position: 0% 0%;
   }
 }
 .bd-section-23 {
