@@ -12105,6 +12105,11 @@ a.bd-backtotop-1:hover {
   -ms-transform: translateX(0) translateY(-50%);
   transform: translateX(0) translateY(-50%);
 }
+@media (max-width: 767px) {
+  .bd-layoutbox-7 {
+    background-color: rgba(186, 226, 242, 0.75);
+  }
+}
 .bd-layoutbox-7 {
   text-align: left;
 }
@@ -13555,7 +13560,7 @@ h2.bd-postheader-4 a {
 }
 @media (max-width: 767px) {
   .bd-section-1 {
-    background-image: url(../../assets/images/a3fc5ca2859328fdeb51718986d0cca0_24.jpg);
+    background-image: url(../../assets/images/abbad6cd05b35abb37cd3df8a1864e0c_GooglePixel6Pro1.png);
   }
 }
 .bd-section-1 {
